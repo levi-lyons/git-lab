@@ -110,4 +110,15 @@ Untracked files:
         git version 2.17.1
 
 no changes added to commit (use "git add" and/or "git commit -a")
-10. 
+10. no
+11. To https://github.com/levi-lyons/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/levi-lyons/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by anotherrepository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+12. Yes
+13. .  ..  .git  .gitignore  README.md
+14
